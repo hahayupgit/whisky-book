@@ -1,3 +1,5 @@
+<!-- Aliases: [guild wars 2, gw2] -->
+
 # Guild Wars 2
 
 {{#template ../templates/rating.md status=Gold date=05/01/24 installs=Yes opens=Yes}}

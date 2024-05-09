@@ -1,3 +1,5 @@
+<!-- Aliases: [horizon zero dawn] -->
+
 # Horizon Zero Dawn
 
 {{#template ../templates/rating.md status=Silver date=08/09/23 installs=Yes opens=Yes}}

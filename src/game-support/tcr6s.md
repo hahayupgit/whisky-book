@@ -1,3 +1,5 @@
+<!-- Aliases: [tom clancys rainbow six siege, tcr6s, r6, r6s, siege] -->
+
 # Tom Clancy's Rainbow Six Siege (Steam)
 {{#template ../templates/rating.md status=Garbage date=05/05/24 installs=Yes opens=No}}
 

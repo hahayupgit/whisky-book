@@ -1,3 +1,5 @@
+<!-- Aliases: [stardew valley] -->
+
 # Stardew Valley
 
 {{#template ../templates/rating.md status=Gold date=02/28/24 installs=Yes opens=Yes}}

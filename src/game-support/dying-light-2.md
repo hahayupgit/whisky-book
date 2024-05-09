@@ -1,3 +1,5 @@
+<!-- Aliases: [dying light 2, dl2] -->
+
 # Dying Light 2
 
 {{#template ../templates/rating.md status=Silver date=03/02/24 installs=Yes opens=Yes}}

@@ -1,3 +1,5 @@
+<!-- Aliases: [kenshi] -->
+
 # Kenshi
 
 {{#template ../templates/rating.md status=Gold date=03/04/24 installs=Yes opens=Yes}}

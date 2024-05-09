@@ -1,3 +1,5 @@
+<!-- Aliases: [diablo 4, diablo 4 battle.net] -->
+
 # Diablo IV - Battle.net Version
 
 {{#template ../templates/rating.md status=Garbage date=02/04/24 installs=Yes opens=No}}

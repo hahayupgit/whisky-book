@@ -1,3 +1,5 @@
+<!-- Aliases: [deep rock, deep rock galactic, drg] -->
+
 # Deep Rock Galactic
 
 {{#template ../templates/rating.md status=Silver date=03/04/24 installs=Yes opens=Yes}}

@@ -1,3 +1,5 @@
+<!-- Aliases: [palworld] -->
+
 # Palworld
 
 {{#template ../templates/rating.md status=Silver date=11/28/23 installs=Yes opens=Yes}}

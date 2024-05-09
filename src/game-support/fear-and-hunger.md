@@ -1,3 +1,5 @@
+<!-- Aliases: [fear and hunger, fear & hunger, funger] -->
+
 # Fear and Hunger
 
 {{#template ../templates/rating.md status=Bronze date=03/28/24 installs=Yes opens=Yes}}

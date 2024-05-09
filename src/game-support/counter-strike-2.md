@@ -1,3 +1,5 @@
+<!-- Aliases: [cs2, counter strike 2, counter-strike 2] -->
+
 # Counter-Strike 2
 
 {{#template ../templates/rating.md status=Silver date=10/24/23 installs=Yes opens=Yes}}

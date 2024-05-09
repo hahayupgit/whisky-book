@@ -1,3 +1,5 @@
+<!-- Aliases: [the wolf among us, wolf among us] -->
+
 # The Wolf Among Us
 
 {{#template ../templates/rating.md status=Gold date=28/04/24 installs=Yes opens=Yes}}

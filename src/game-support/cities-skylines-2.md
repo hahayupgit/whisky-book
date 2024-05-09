@@ -1,3 +1,5 @@
+<!-- Aliases: [cities skylines 2] -->
+
 # Cities: Skylines 2
 
 {{#template ../templates/rating.md status=Bronze date=11/28/23 installs=Yes opens=Yes}}

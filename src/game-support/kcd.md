@@ -1,3 +1,5 @@
+<!-- Aliases: [kingdom come deliverance, kcd] -->
+
 # Kingdom Come: Deliverance
 
 {{#template ../templates/rating.md status=Gold date=05/08/24 installs=Yes opens=Yes}}

@@ -1,3 +1,5 @@
+<!-- Aliases: [content warning, cw] -->
+
 # Content Warning
 
 {{#template ../templates/rating.md status=Silver date=05/05/24 installs=Yes opens=Yes}}

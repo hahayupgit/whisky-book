@@ -1,3 +1,5 @@
+<!-- Aliases: [metro last light, metro last light redux, metro: last light, metro: last light redux, metro ll, metro: ll, metro ll redux, metro:ll redux] -->
+
 # Metro: Last Light Redux
 
 {{#template ../templates/rating.md status=Gold date=03/05/24 installs=Yes opens=Yes}}

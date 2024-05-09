@@ -1,3 +1,5 @@
+<!-- Aliases: [warframe] -->
+
 # Warframe
 
 {{#template ../templates/rating.md status=Bronze date=11/16/23 installs=Yes opens=Yes}}

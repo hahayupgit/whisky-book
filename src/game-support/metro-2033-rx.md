@@ -1,3 +1,5 @@
+<!-- Aliases: [metro 2033, metro 2033 redux] -->
+
 # Metro 2033 Redux
 
 {{#template ../templates/rating.md status=Gold date=02/05/24 installs=Yes opens=Yes}}

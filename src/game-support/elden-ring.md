@@ -1,3 +1,5 @@
+<!-- Aliases: [elden ring, the best game of 2022] -->
+
 # Elden Ring
 
 {{#template ../templates/rating.md status=Silver date=07/13/23 installs=Yes opens=Yes}}

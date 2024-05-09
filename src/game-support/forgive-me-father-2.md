@@ -1,3 +1,5 @@
+<!-- Aliases: [forgive me father 2] -->
+
 # Forgive Me Father 2
 
 {{#template ../templates/rating.md status=Gold date=04/04/23 installs=Yes opens=Yes}} 

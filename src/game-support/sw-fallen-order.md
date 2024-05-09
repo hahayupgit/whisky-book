@@ -1,3 +1,5 @@
+<!-- Aliases: [star wars jedi fallen order, star wars jedi: fallen order, sw fallen order] -->
+
 # Star Wars Jedi: Fallen Order
 
 {{#template ../templates/rating.md status=Gold date=07/17/23 installs=Yes opens=Yes}}

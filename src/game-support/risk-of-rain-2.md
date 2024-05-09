@@ -1,3 +1,5 @@
+<!-- Aliases: [risk of rain 2, ror2] -->
+
 # Risk of Rain 2
 
 {{#template ../templates/rating.md status=Silver date=04/04/24 installs=Yes opens=Yes}}

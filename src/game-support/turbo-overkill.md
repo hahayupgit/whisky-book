@@ -1,3 +1,5 @@
+<!-- Aliases: [turbo overkill] -->
+
 # Turbo Overkill
 
 {{#template ../templates/rating.md status=Silver date=04/04/23 installs=Yes opens=Yes}} 

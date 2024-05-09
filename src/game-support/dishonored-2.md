@@ -1,3 +1,5 @@
+<!-- Aliases: [dishonored 2] -->
+
 # Dishonored 2
 
 {{#template ../templates/rating.md status=Silver date=05/05/24 installs=Yes opens=Yes}}

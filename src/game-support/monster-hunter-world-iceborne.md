@@ -1,3 +1,5 @@
+<!-- Aliases: [monster hunter world iceborne, monster hunter world: iceborne] -->
+
 # Monster Hunter World: Iceborne
 
 {{#template ../templates/rating.md status=Gold date=12/10/23 installs=Yes opens=Yes}}

@@ -1,3 +1,5 @@
+<!-- Aliases: [half life, hl1, hl, half life 1, half-life, half-life 1] -->
+
 # Half-Life 1
 
 {{#template ../templates/rating.md status=Garbage date=04/16/24 installs=Yes opens=No}}

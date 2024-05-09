@@ -1,3 +1,5 @@
+<!-- Aliases: [undertale] -->
+
 # Undertale
 
 {{#template ../templates/rating.md status=Silver date=04/04/23 installs=Yes opens=Yes}}

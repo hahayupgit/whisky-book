@@ -1,3 +1,5 @@
+<!-- Aliases: [skyrim se] -->
+
 # Skyrim SE
 
 {{#template ../templates/rating.md status=Silver date=08/09/23 installs=Yes opens=Yes}}

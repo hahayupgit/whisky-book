@@ -1,3 +1,5 @@
+<!-- Aliases: [hitman contracts] -->
+
 # Hitman: Contracts
 
 {{#template ../templates/rating.md status=Silver date=04/05/24 installs=Yes opens=Yes}}

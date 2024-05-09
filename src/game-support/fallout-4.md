@@ -1,3 +1,5 @@
+<!-- Aliases: [fallout 4] -->
+
 # Fallout 4
 
 {{#template ../templates/rating.md status=Silver date=04/25/24 installs=Yes opens=Yes}}

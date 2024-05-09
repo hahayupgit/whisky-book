@@ -1,3 +1,5 @@
+<!-- Aliases: [sekiro, sekiro shadows die twice, sekiro: shadows die twice] -->
+
 # Sekiro: Shadows Die Twice
 
 {{#template ../templates/rating.md status=Gold date=05/09/23 installs=Yes opens=Yes}}

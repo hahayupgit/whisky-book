@@ -1,3 +1,5 @@
+<!-- Aliases: [battle brothers] -->
+
 # Battle Brothers
 
 {{#template ../templates/rating.md status=Garbage date=05/08/24 installs=Yes opens=No}}

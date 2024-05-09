@@ -23,7 +23,7 @@ if __name__ == '__main__':
     
     # iterate through each game file in the directory that isnt the readme
     for i in game_support_dir:
-        if i != "README.md":
+        if i != "README.md" and i != "template.md":
             
             # open that file and read the first line
             f_curr = open(f"{GS_PATH}/{i}")

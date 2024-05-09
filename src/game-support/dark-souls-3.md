@@ -1,3 +1,5 @@
+<!-- Aliases: [dark souls 3, dark souls iii, ds3, dsiii] -->
+
 # Dark Souls III
 
 {{#template ../templates/rating.md status=Gold date=04/09/23 installs=Yes opens=Yes}}
