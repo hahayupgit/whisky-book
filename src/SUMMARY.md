@@ -36,7 +36,7 @@
   - [Fallout 4](./game-support/fallout-4.md)
   - [Fear and Hunger](./game-support/fear-and-hunger.md)
   - [Forgive Me Father 2](./game-support/forgive-me-father-2.md)
-  - [No](./game-support/fortnite.md)
+  - [Fortnite](./game-support/fortnite.md)
   - [Friends vs Friends](./game-support/friends-vs-friends.md)
   - [Grand Theft Auto V](./game-support/gta-5.md)
   - [Guild Wars 2](./game-support/gw2.md)

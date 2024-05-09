@@ -73,8 +73,10 @@ def build_summary(game_dir):
     # iterate through the game directory and add it to the summary file,
     # get the name of the file from the json content and add that as well
     for i in game_dir:
-        if i != "README.md" and i != "template.md":
+        if i != "README.md" and i != "template.md" and i != "fortnite.md":
             f.write(f"  - [{json_contents[i]["name"]}](./game-support/{i})\n")
+        if i == "fortnite.md":
+            f.write(f"  - [Fortnite](./game-support/{i})\n")
     
     f.close()
 
