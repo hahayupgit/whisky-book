@@ -1,3 +1,8 @@
+# CURRENT ISSUES:
+# 
+# proper alphabetical ordering, current is by filename, we want by name name
+# sync names in pages with names in sidebar
+
 import json;
 import os;
 
