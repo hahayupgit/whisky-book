@@ -21,7 +21,7 @@ jobs:
       MDBOOK_VERSION: 0.4.37
       CARGO_TERM_COLOR: always
     steps:
-      - name: Build SUMMARY.md
+      - name: Build games.json and SUMMARY.md
       - run: python3 build.py
       - uses: actions/checkout@v4
       - uses: Swatinem/rust-cache@v2
