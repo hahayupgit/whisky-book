@@ -1,3 +1,5 @@
+<!-- Aliases: [among us, among us] -->
+
 # Among Us
 
 {{#template ../templates/rating.md status=Gold date=04/29/24 installs=Yes opens=Yes}}
